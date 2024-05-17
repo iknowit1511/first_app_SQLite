@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="actionbutton">ActionButton</string>
+    <string name="add_button">add_button\n</string>
+
+    <string-array name="sug_column">
+        <item>_id</item>
+        <item>Ten</item>
+        <item>Tuoi</item>
+        <item>Vi_tri</item>
+    </string-array>
+    <string-array name="sug_comp">
+        <item>=</item>
+        <item>&gt;</item>
+        <item>&lt;</item>
+        <item>&gt;=</item>
+        <item>&lt;=</item>
+    </string-array>
+</resources>
